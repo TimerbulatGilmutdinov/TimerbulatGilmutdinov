@@ -20,8 +20,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 </p>
 
-https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timerbulatgilmutdinov&show_icons=true&locale=en&layout=compact" alt="timerbulatgilmutdinov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timerbulatgilmutdinov&show_icons=true&locale=en" alt="timerbulatgilmutdinov" /></p>
