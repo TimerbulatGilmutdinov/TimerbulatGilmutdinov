@@ -25,4 +25,4 @@
 
 
 - 🔭 I’m currently working on `rusteam` project: https://gitlab.com/ElizavetaBelskya/rusteam
-- 🌱 I’m currently learning Spring Security 
+- 🌱 I’m currently learning Apache Kafka, Rabbit MQ
