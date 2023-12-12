@@ -24,5 +24,4 @@
 
 
 
-- 🔭 I’m currently working on `rusteam` project: https://gitlab.com/ElizavetaBelskya/rusteam
-- 🌱 I’m currently learning Apache Kafka, Rabbit MQ
+- 🔭 I’m currently studying at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/) 
