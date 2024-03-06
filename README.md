@@ -24,4 +24,4 @@
 
 
 
-- 🔭 I’m currently studying at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/) and [Ozon Route256](https://route256.ozon.ru/)
+- 🔭 I’m currently studying at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/) and [Ozon Route256 Go track](https://route256.ozon.ru/)
